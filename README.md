@@ -1,10 +1,10 @@
-### Hi there, I'm Manjeet 👋
+### Hi there, I'm Manjeet, new to this world of coding and development and absolutely in love with it.😍 👋
 
-## I'm a Aspiring Developer and most importantly I love to learn!!
+## I'm a Aspiring Developer finding joy in learning and problem solving!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Learn and enjoy coding and also become a better me 😃!!
+- 👯 I’m looking forward to having fun and learn with similar people like me.
+- 🥅 2021 Goals: Learn and enjoy coding and also become a better me as a person as well as a developer 😃!!
 
 ### Connect with me:
 
@@ -14,12 +14,16 @@
 
 <br />
 
+### Hobbies and Interests -:
+-> Competitive Programming and Development
+-> Book Reading, Sports and Music
+
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HustleAura&show_icons=true&hide_border=true" />
+  <img align="left" alt="HustleAura's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HustleAura&show_icons=true&theme=great-gatsby&hide_border=true" />
 
 </details>
 
