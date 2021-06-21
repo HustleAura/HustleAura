@@ -16,6 +16,7 @@
 
 ### Hobbies and Interests -:
 -> Competitive Programming and Development
+<br/>
 -> Book Reading, Sports and Music
 
 </details>
