@@ -4,7 +4,7 @@
 ### I am new to this world of coding and development and absolutely in love with it.😍
 ### I'm a Aspiring Developer finding joy in learning and problem solving!!
 
-- 🌱 I’m currently learning DSA and Competitive Programming as well as getting started with web development.
+- 🌱 I’m currently learning DSA and Competitive Programming as well as getting started with development.
 - 👯 I’m looking forward to having fun and learn with similar people like me.
 - 🥅 2021 Goals: Learn and enjoy coding and also become a better me as a person as well as a developer 😃!!
 
