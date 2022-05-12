@@ -1,16 +1,14 @@
 ## Hi there, I'm Manjeet.  👋
 #### B.Tech EE Fresher at NIT Rourkela. 
 
-### I am new to this world of coding and development and absolutely in love with it.😍
-### I'm a Aspiring Developer finding joy in learning and problem solving!!
+### Welcome to my GitHub Profile.
 
-- 🌱 I’m currently learning DSA and Competitive Programming as well as getting started with development.
-- 👯 I’m looking forward to having fun and learn with similar people like me.
-- 🥅 2021 Goals: Learn and enjoy coding and also become a better me as a person as well as a developer 😃!!
+- I am a competitive programmer who finds joy in learning and problem solving. 
+- Currently a newbie in development and exploring app development with flutter.
+- Feel free to reach me at : [manjeetpani@gmail.com]
 
 ### Connect with me:
 
-[<img align="center" alt="Manjeet Pani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="center" alt="Manjeet Pani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="Manjeet Pani | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="center" alt="Manjeet Pani | Instagram" width="22px" src="https://simpleicons.org/icons/codeforces.svg" />][CodeForces]
@@ -38,7 +36,7 @@
 
 </details>
 
-[twitter]: https://twitter.com/ManjeetPani
+[manjeetpani@gmail.com]: mailto:manjeetpani@gmail.com
 [instagram]: https://www.instagram.com/manjeetpani/
 [linkedin]: https://www.linkedin.com/in/manjeet-pani-8248a31b8/
 [Codeforces]: https://codeforces.com/profile/hustle_aura
