@@ -1,10 +1,11 @@
 ## Hi there, I'm Manjeet.  👋
-#### B.Tech EE Fresher at NIT Rourkela. 
+#### B.Tech EE Undergrad at NIT Rourkela. 
 
 ### Welcome to my GitHub Profile.
 
 - I am a competitive programmer who finds joy in learning and problem solving. 
 - Currently a newbie in development and exploring app development with flutter.
+- Would love to collaberate in any kind of innovative project 
 - Feel free to reach me at : [manjeetpani@gmail.com]
 
 ### Connect with me:
