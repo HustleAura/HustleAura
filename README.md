@@ -1,4 +1,5 @@
-<img width="80%" height="100%" src="https://user-images.githubusercontent.com/80444886/170893370-cc9b6922-1a18-4c7a-8bb5-81ac7798d09a.gif" />
+![image](https://user-images.githubusercontent.com/80444886/170894259-89b536b3-ac06-48d1-a2f4-ab80174ebe2c.png)
+
 
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Manjeet</h1>
 <h3 align="center">I'm a passionate explorer pursuing B.Tech in NIT Rourkela.</h3>
@@ -9,6 +10,7 @@
 - Currently a newbie in development and exploring app development with flutter.
 - Would love to collaberate in any kind of innovative project 
 - Feel free to reach me at : [manjeetpani@gmail.com]
+- Would be really glad to connect with you all on [linkedin]
 
 ### Connect with me:
 
@@ -25,14 +27,15 @@
 -> Book Reading, Sports and Music
 
 
-  <summary>:zap: In the time I have used GitHub </summary>
-  <br/>
-
   <a align="center" href="https://github.com/HustleAura/github-readme-stats">
   <img align="left" alt="HustleAura's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HustleAura&show_icons=true&theme=default&hide_border=true" /></a>
   
   <a href="https://github.com/HustleAura/github-readme-stats">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HustleAura&theme=default&hide_border=true" />
+  </a> 
+  
+  <a href="https://github.com/HustleAura/github-readme-stats">
+  <img  align="center" src="https://activity-graph.herokuapp.com/graph?username=HustleAura&theme=minimal" />
   </a> 
 
 </p>
