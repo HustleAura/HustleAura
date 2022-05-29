@@ -1,5 +1,7 @@
-## Hi there, I'm Manjeet.  👋
-#### B.Tech EE Undergrad at NIT Rourkela. 
+<img width="80%" height="100%" src="https://user-images.githubusercontent.com/80444886/170893370-cc9b6922-1a18-4c7a-8bb5-81ac7798d09a.gif" />
+
+<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Manjeet</h1>
+<h3 align="center">I'm a passionate explorer pursuing B.Tech in NIT Rourkela.</h3>
 
 ### Welcome to my GitHub Profile.
 
