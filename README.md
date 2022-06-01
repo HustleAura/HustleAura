@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/80444886/170894259-89b536b3-ac06-48d1-a2f4-ab80174ebe2c.png)
 
 
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Manjeet</h1>
+<h1 align="center">Hi there, I'm Manjeet</h1>
 <h3 align="center">I'm a passionate explorer pursuing B.Tech in NIT Rourkela.</h3>
 
 ### Welcome to my GitHub Profile.
