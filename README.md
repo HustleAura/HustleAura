@@ -28,10 +28,10 @@
 
 
   <a align="center" href="https://github.com/HustleAura/github-readme-stats">
-  <img align="left" alt="HustleAura's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HustleAura&show_icons=true&theme=default&hide_border=true" /></a>
+  <img span="inline" align="left" alt="HustleAura's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HustleAura&show_icons=true&theme=default&hide_border=true" /></a>
   
   <a href="https://github.com/HustleAura/github-readme-stats">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HustleAura&theme=default&hide_border=true" />
+  <img span="inline" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HustleAura&theme=default&hide_border=true" />
   </a> 
   
   <a href="https://github.com/HustleAura/github-readme-stats">
